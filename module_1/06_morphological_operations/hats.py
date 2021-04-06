@@ -25,3 +25,5 @@ cv2.imshow("Original", image)
 cv2.imshow("Blackhat", blackhat)
 cv2.imshow("Tophat", tophat)
 cv2.waitKey(0)
+
+blblbllblb
